@@ -1,0 +1,26 @@
+{
+  "underwritingAssessmentInstanceRecord" : {
+    "proposedTransactionDetails" : {
+      "customerEmploymentHistory" : "customerEmploymentHistory",
+      "customerDebtStatement" : "customerDebtStatement",
+      "customerProductEligibilityTerms" : "customerProductEligibilityTerms",
+      "customerIncomeStatement" : "customerIncomeStatement",
+      "proposedLoanAmount" : "USD 250",
+      "productInstanceReference" : "742442",
+      "customerReference" : "763744",
+      "collateralItemValuation" : "collateralItemValuation",
+      "loanPurpose" : "loanPurpose",
+      "collateralItemReference" : "758962",
+      "customerReferenceDetails" : "customerReferenceDetails",
+      "documentReference" : "774761",
+      "customerProductServicePaymentHistory" : "customerProductServicePaymentHistory",
+      "collateralItemType" : "collateralItemType",
+      "proposedLoanTerms" : "proposedLoanTerms",
+      "customerAssetStatement" : "customerAssetStatement",
+      "customerCreditAssessment" : "customerCreditAssessment"
+    }
+  },
+  "updateResponseRecord" : {},
+  "underwritingAssessmentUpdateActionTaskReference" : "UAUATR704340",
+  "underwritingAssessmentUpdateActionTaskRecord" : {}
+}

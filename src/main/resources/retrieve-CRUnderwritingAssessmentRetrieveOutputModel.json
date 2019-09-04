@@ -1,0 +1,46 @@
+{
+  "underwritingAssessmentInstanceAnalysis" : {
+    "underwritingAssessmentInstanceAnalysisData" : "underwritingAssessmentInstanceAnalysisData",
+    "underwritingAssessmentInstanceAnalysisReportType" : "underwritingAssessmentInstanceAnalysisReportType",
+    "underwritingAssessmentInstanceAnalysisReport" : {}
+  },
+  "underwritingAssessmentRetrieveActionTaskRecord" : {},
+  "underwritingAssessmentInstanceRecord" : {
+    "proposedTransactionDetails" : {
+      "customerEmploymentHistory" : "customerEmploymentHistory",
+      "customerDebtStatement" : "customerDebtStatement",
+      "customerProductEligibilityTerms" : "customerProductEligibilityTerms",
+      "customerIncomeStatement" : "customerIncomeStatement",
+      "proposedLoanAmount" : "USD 250",
+      "productInstanceReference" : "752608",
+      "customerReference" : "731334",
+      "collateralItemValuation" : "collateralItemValuation",
+      "loanPurpose" : "loanPurpose",
+      "collateralItemReference" : "737204",
+      "customerReferenceDetails" : "customerReferenceDetails",
+      "documentReference" : "729853",
+      "customerProductServicePaymentHistory" : "customerProductServicePaymentHistory",
+      "collateralItemType" : "collateralItemType",
+      "proposedLoanTerms" : "proposedLoanTerms",
+      "customerAssetStatement" : "customerAssetStatement",
+      "customerCreditAssessment" : "customerCreditAssessment"
+    },
+    "underwritingAssessmentDecision" : "underwritingAssessmentDecision",
+    "underwritingAssessmentWorkProduct" : "underwritingAssessmentWorkProduct",
+    "underwritingGuidelines" : {
+      "requiredCustomerDebtAssetStatement" : "requiredCustomerDebtAssetStatement",
+      "requiredCollateralCoverage" : "requiredCollateralCoverage",
+      "requiredCustomerEmploymentHistoryDetails" : "requiredCustomerEmploymentHistoryDetails",
+      "requiredCustomerProductServicePaymentHistory" : "requiredCustomerProductServicePaymentHistory",
+      "requiredCustomerCreditAssessment" : "requiredCustomerCreditAssessment",
+      "requiredCustomerDocuments" : "requiredCustomerDocuments"
+    }
+  },
+  "underwritingAssessmentRetrieveActionResponse" : "underwritingAssessmentRetrieveActionResponse",
+  "underwritingAssessmentRetrieveActionTaskReference" : "UARATR706723",
+  "underwritingAssessmentInstanceReportRecord" : {
+    "underwritingAssessmentInstanceReportType" : "underwritingAssessmentInstanceReportType",
+    "underwritingAssessmentInstanceReportData" : "underwritingAssessmentInstanceReportData",
+    "underwritingAssessmentInstanceReport" : {}
+  }
+}

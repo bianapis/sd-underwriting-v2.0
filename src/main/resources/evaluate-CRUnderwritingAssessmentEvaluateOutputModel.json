@@ -1,0 +1,21 @@
+{
+  "underwritingAssessmentInstanceRecord" : {
+    "proposedTransactionDetails" : {
+      "documentReference" : "768449"
+    },
+    "underwritingAssessmentDecision" : "underwritingAssessmentDecision",
+    "underwritingAssessmentWorkProduct" : "underwritingAssessmentWorkProduct",
+    "underwritingGuidelines" : {
+      "requiredCustomerDebtAssetStatement" : "requiredCustomerDebtAssetStatement",
+      "requiredCollateralCoverage" : "requiredCollateralCoverage",
+      "requiredCustomerEmploymentHistoryDetails" : "requiredCustomerEmploymentHistoryDetails",
+      "requiredCustomerProductServicePaymentHistory" : "requiredCustomerProductServicePaymentHistory",
+      "requiredCustomerCreditAssessment" : "requiredCustomerCreditAssessment",
+      "requiredCustomerDocuments" : "requiredCustomerDocuments"
+    }
+  },
+  "underwritingAssessmentEvaluateActionRecord" : {},
+  "underwritingAssessmentInstanceReference" : "UAIR766488",
+  "underwritingAssessmentEvaluateActionReference" : "UAEAR730557",
+  "underwritingAssessmentInstanceStatus" : "underwritingAssessmentInstanceStatus"
+}
